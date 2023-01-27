@@ -8,8 +8,9 @@ Nunjucks is a very powerful template engine that is suited to Node.js applicatio
 
 ## Usage
 
-npm i
-npm run nodemon
+```npm i```
+#
+```npm run nodemon```
 
 ## Description
 
