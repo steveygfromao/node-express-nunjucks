@@ -1,0 +1,8 @@
+{% extends  layout %}
+{% block  content %}
+  <h1>{{title}}</h1>
+  <h2>{{message}}</h2>
+  {% set items = [1,2,3,8,125] %}
+  <h2>Sum example:{{ items | sum }}</h2>
+{% endblock %}
+
